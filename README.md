@@ -61,7 +61,7 @@
 <h3 style="text-align: center; color:#7b5e57;">📞 Contact Me</h3>
 <p align="center" style="font-family: Arial, sans-serif; font-size: 16px; color: #4b4b4b;">
   I’d love to hear from you! Whether you’re interested in collaborating on a project, have an exciting opportunity, or just want to connect—feel free to reach out.<br><br>
-  <strong>Email:</strong> <a href="mailto:rofeidakhaled@gmail.com">rofaidakhaled1111@gmail.com</a><br>
+  <strong>Email:</strong> <a href="mailto:rofaida.khaled1111@gmail.com">rofaidakhaled1111@gmail.com</a><br>
   <strong>Phone:</strong> +20 106 845 4043<br>
   <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/rofaida-khaled-b32887271" target="_blank">www.linkedin.com/in/rofaida-khaled-b32887271</a>
 </p>
