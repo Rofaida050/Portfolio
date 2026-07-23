@@ -150,11 +150,6 @@ Smart robotic solution using Arduino for automated fire detection and safety res
 </td>
 <td width="50%" valign="top">
 
-### ✍️ Blogging Platform
-Dynamic web application for publishing and managing blog posts, built with PHP OOP and SQL.
-<br/>
-<img src="https://img.shields.io/badge/PHP-5C4033?style=flat-square"/> <img src="https://img.shields.io/badge/OOP-6B8E23?style=flat-square"/> <img src="https://img.shields.io/badge/SQL-808000?style=flat-square"/>
-
 </td>
 </tr>
 </table>
@@ -175,7 +170,7 @@ Dynamic web application for publishing and managing blog posts, built with PHP O
 <div align="center">
 
 <a href="mailto:rofaida.khaled1111@gmail.com"><img src="https://img.shields.io/badge/rofaida.khaled1111@gmail.com-5C4033?style=for-the-badge&logo=gmail&logoColor=F5F0E6"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-6B8E23?style=for-the-badge&logo=linkedin&logoColor=F5F0E6"/></a>
+<a href="www.linkedin.com/in/rofaida-khaled505"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-6B8E23?style=for-the-badge&logo=linkedin&logoColor=F5F0E6"/></a>
 
 <br/><br/>
 
